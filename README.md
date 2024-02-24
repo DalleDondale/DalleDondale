@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DalleDondale
+- 👋 Hello, I’m @DalleDondale
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on any blockchain project
